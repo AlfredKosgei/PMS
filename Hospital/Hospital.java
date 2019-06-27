@@ -11,7 +11,7 @@ import disciplinary.Disciplinary;
 
 /**
  *
- * @author Dan Kimwei
+ * @author Dan Kimwei UI , Backend by Owen
  */
 public class Hospital extends javax.swing.JFrame 
 {
